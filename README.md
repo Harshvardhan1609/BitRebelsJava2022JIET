@@ -1,4 +1,4 @@
-# BitRebelsJava2022JIET
+# BitRebelsJava2023JIET
 # 💻🌶️ Java and Its Future Opportunities 🔮
 
 Java is a popular programming language 💻 that is widely used in the development of web, mobile, and desktop applications. It is known for its simplicity, readability, and reliability, making it a great choice for developers of all skill levels 🤓.
